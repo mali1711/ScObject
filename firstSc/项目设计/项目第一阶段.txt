@@ -12,7 +12,7 @@
 
 需要的界面:
 	后台首页 index.html
-	用户添加页 addUser.html
+	用户添加页 addTeacher.html
 		内容：
 			用户姓名
 			用户账号
@@ -21,6 +21,26 @@
 				教导主任
 				班主任
 			负责学科（多选）
+	用户列表页：teacherList.html
+		内容:
+			搜索框
+			表格（教师姓名 年龄 职称 负责学科 详情 操作（禁用） 分页）
+		学科添加页addSubject.html
+		学科列表页subjectlist.html
+			内容（学科 详情（对应负责的老师））
+		班级添加页addClass.html
+			内容：
+				级
+				班
+				教室座位
+					排
+					列
+		班级列表页classList.html
+			内容
+				班级名字
+				人数（默认为空）
+				班级详情
+				班级操作
 	学科添加页addSubject.html
 	学生添加页面addStudent.html
 =========================================================================
