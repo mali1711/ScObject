@@ -28,13 +28,15 @@
 		学科添加页addSubject.html
 		学科列表页subjectlist.html
 			内容（学科 详情（对应负责的老师））
+		添加教室
+			位置
+			行
+			列
 		班级添加页addClass.html
 			内容：
 				级
 				班
-				教室座位
-					排
-					列
+				选择教室
 		班级列表页classList.html
 			内容
 				班级名字
