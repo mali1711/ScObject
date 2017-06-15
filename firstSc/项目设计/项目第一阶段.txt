@@ -28,7 +28,7 @@
 		学科添加页addSubject.html
 		学科列表页subjectlist.html
 			内容（学科 详情（对应负责的老师））
-		添加教室
+		添加教室:addClassHome.html
 			位置
 			行
 			列
