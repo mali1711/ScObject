@@ -1,0 +1,24 @@
+[ 2017-06-20T15:22:11+08:00 ] ::1 /www/ScObject/Code/School/elements.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Elements
+
+[ 2017-06-20T15:24:26+08:00 ] ::1 /www/ScObject/Code/School/nestable-list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Nestable-list
+
+[ 2017-06-20T16:20:12+08:00 ] ::1 /www/ScObject/Code/School/elements.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Elements
+
+[ 2017-06-20T16:21:02+08:00 ] ::1 /www/ScObject/Code/School/__MOUDLE__/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:__MOUDLE__
+
