@@ -380,28 +380,28 @@
 
 							<ul class="submenu">
 								<li>
-									<a href="/www/ScObject/Code/School/index.php/Home/Index/addClassHome">
+									<a href="/www/ScObject/Code/School/index.php/Home/Index/addClassroom">
 										<i class="icon-double-angle-right"></i>
 										教室添加
 									</a>
 								</li>
 
 								<li>
-									<a href="buttons.html">
+									<a href="/www/ScObject/Code/School/index.php/Home/Index/addClass">
 										<i class="icon-double-angle-right"></i>
 										班级添加
 									</a>
 								</li>
 
 								<li>
-									<a href="treeview.html">
+									<a href="/www/ScObject/Code/School/index.php/Home/Index/addSubject">
 										<i class="icon-double-angle-right"></i>
 										学科添加
 									</a>
 								</li>
 
 								<li>
-									<a href="jquery-ui.html">
+									<a href="/www/ScObject/Code/School/index.php/Home/Index/addTeacher">
 										<i class="icon-double-angle-right"></i>
 										讲师添加
 									</a>

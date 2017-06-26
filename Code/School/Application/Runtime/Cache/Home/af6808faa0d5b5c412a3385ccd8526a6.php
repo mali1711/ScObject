@@ -380,7 +380,7 @@
 
 							<ul class="submenu">
 								<li>
-									<a href="/www/ScObject/Code/School/index.php/Home/Index/addClassHome">
+									<a href="/www/ScObject/Code/School/index.php/Home/Index/addClassroom">
 										<i class="icon-double-angle-right"></i>
 										教室添加
 									</a>
